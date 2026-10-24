@@ -1,16 +1,23 @@
-## Hi there 👋
+# Danil
 
-<!--
-**helloworld-labz/helloworld-labz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Aspiring Data Analyst**
 
-Here are some ideas to get you started:
+SQL / Python / Data Analytics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### About
+
+Learning to transform raw data into meaningful insights.
+
+Currently focused on SQL, with Python next on my learning path.
+
+### Current focus
+
+- SQL — learning
+- Python — up next
+- Data analysis — building foundations
+
+---
+
+*Learning. Building. Improving.*
