@@ -1,23 +1,37 @@
-# Danil
+
+
+# Danil.
 
 **Aspiring Data Analyst**
 
-SQL / Python / Data Analytics
+SQL / Data Analysis / Python
 
 ---
 
-### About
+### 01 / About
 
-Learning to transform raw data into meaningful insights.
+Focused on data analysis with a solid foundation in SQL.
 
-Currently focused on SQL, with Python next on my learning path.
-
-### Current focus
-
-- SQL — learning
-- Python — up next
-- Data analysis — building foundations
+Developing analytical thinking through practical SQL problems and expanding my toolkit with Python.
 
 ---
 
-*Learning. Building. Improving.*
+### 02 / Technical focus
+
+| Technology | Focus |
+| :--- | :--- |
+| SQL | Core skill |
+| Data Analysis | Career focus |
+| Python | Next step |
+
+---
+
+### 03 / Projects
+
+SQL case studies and analytical projects will be published here.
+
+---
+
+*Query. Analyze. Understand.*
+
+
